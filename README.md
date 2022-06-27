@@ -1,2 +1,1 @@
-# React-quiz-app
-Created with CodeSandbox
+# Trivia-Game
